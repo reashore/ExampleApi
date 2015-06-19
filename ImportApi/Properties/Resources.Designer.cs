@@ -61,7 +61,7 @@ namespace ImportApi.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to mmm.
+        ///   Looks up a localized string similar to {&quot;swagger&quot;:&quot;2.0&quot;,&quot;info&quot;:{&quot;version&quot;:&quot;v1&quot;,&quot;title&quot;:&quot;ExampleApi&quot;},&quot;host&quot;:&quot;microsoft-apiapp44519e77af114f2e8841c2153cfd0b92.azurewebsites.net:443&quot;,&quot;schemes&quot;:[&quot;https&quot;],&quot;paths&quot;:{&quot;/api/{version}/companies&quot;:{&quot;get&quot;:{&quot;tags&quot;:[&quot;Companies&quot;],&quot;operationId&quot;:&quot;Companies_GetCompanies&quot;,&quot;consumes&quot;:[],&quot;produces&quot;:[&quot;application/json&quot;,&quot;text/json&quot;,&quot;text/html&quot;,&quot;application/xml&quot;,&quot;text/xml&quot;],&quot;parameters&quot;:[{&quot;name&quot;:&quot;version&quot;,&quot;in&quot;:&quot;path&quot;,&quot;required&quot;:true,&quot;type&quot;:&quot;string&quot;}],&quot;responses&quot;:{&quot;200&quot;:{&quot;description&quot;:&quot;OK&quot;,&quot;schema&quot;:{&quot;$ref&quot;:&quot;#/definition [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ApiSwaggerMetadata {
             get {
